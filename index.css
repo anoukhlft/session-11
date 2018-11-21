@@ -8,6 +8,10 @@ main {
 	flex-wrap: wrap;
 }
 
+body {
+	background-image:url(https://st2.depositphotos.com/2939989/10925/i/950/depositphotos_109253992-stock-photo-soft-colors-pale-white-abstract.jpg);
+}
+
 /* entire container, keeps perspective */
 .flip-container {
 	perspective: 1000px;
